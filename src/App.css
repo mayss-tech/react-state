@@ -1,0 +1,32 @@
+
+.pop-up{
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-Align:center;
+  display:flex;
+}
+.pop-up1{
+  margin-top: 2vw ;
+  background-image: url(https://www.artapisserie.fr/33728-home_default/simili-cuir-skai-parotega-nf-m1-hellbeige-au-metre.jpg);
+  border:solid 2px #553205dc;
+  max-width: 20vw;
+}
+img{
+  width: 15vw;
+  height: 15vw;
+  padding-top: 2.5vw;
+}
+.btn{
+  margin-Top:0.5vw;
+  margin-bottom: 0.5vw;
+  margin-Left:46.5vw;
+  background-color: burlywood;
+}
+.pop-down{
+  display: none;
+}
+.time{
+  margin-Top:0.5vw;
+  margin-Left:47.75vw;
+}
